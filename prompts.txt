@@ -1,0 +1,7 @@
+   Here is an example:
+        "dict(input: "patient name, kevin bacon, date of service, may 23rd, 2024, level of service, annual visit, 
+                location, hospice, code 1, heart attack, code 2, tiny balls.",
+        output: dict('patient_name:': 'Kevin Bacon', 'date_of_service': '05-23-2024', 
+                'level_of_service': 'annual visit', 'location':'hospice', 'code_1': 'heart attack', 'code_2': 'tiny balls')")
+                
+    There should always be 12 code columns 
