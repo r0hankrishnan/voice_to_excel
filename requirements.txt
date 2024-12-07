@@ -45,7 +45,6 @@ numba==0.60.0
 numpy==2.0.2
 ollama==0.4.2
 openai-whisper @ git+https://github.com/openai/whisper.git@90db0de1896c23cbfaf0c58bc2d30665f709f170
-packaging==24.2
 pandas==2.2.3
 parso==0.8.4
 pexpect==4.9.0

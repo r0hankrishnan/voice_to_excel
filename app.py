@@ -25,7 +25,7 @@ with st.expander(label="Instructions"):
                 
                 The decoder model is somewhat sensitive to naming discrepancies so please just use the column names or it might not parse your notes properly!
                 ''')
-    st.image("data_key.png")
+    st.image("./assets/data_fields.png")
 
 
 
